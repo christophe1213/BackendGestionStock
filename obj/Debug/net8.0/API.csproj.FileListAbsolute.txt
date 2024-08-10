@@ -1,0 +1,385 @@
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.Development.json
+E:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.json
+E:\Projet gestion stock\API\bin\Debug\net8.0\API.exe
+E:\Projet gestion stock\API\bin\Debug\net8.0\API.deps.json
+E:\Projet gestion stock\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\Projet gestion stock\API\bin\Debug\net8.0\API.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\API.pdb
+E:\Projet gestion stock\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\MySql.Data.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\ZstdSharp.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projet gestion stock\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.dll
+E:\Projet gestion stock\API\obj\Debug\net8.0\refint\API.dll
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.pdb
+E:\Projet gestion stock\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\Projet gestion stock\API\obj\Debug\net8.0\ref\API.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.json
+C:\Projet gestion stock\API\bin\Debug\net8.0\API.exe
+C:\Projet gestion stock\API\bin\Debug\net8.0\API.deps.json
+C:\Projet gestion stock\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Projet gestion stock\API\bin\Debug\net8.0\API.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\API.pdb
+C:\Projet gestion stock\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\MySql.Data.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projet gestion stock\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.dll
+C:\Projet gestion stock\API\obj\Debug\net8.0\refint\API.dll
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.pdb
+C:\Projet gestion stock\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Projet gestion stock\API\obj\Debug\net8.0\ref\API.dll
+E:\ProjetReact\API\bin\Debug\net8.0\appsettings.Development.json
+E:\ProjetReact\API\bin\Debug\net8.0\appsettings.json
+E:\ProjetReact\API\bin\Debug\net8.0\API.exe
+E:\ProjetReact\API\bin\Debug\net8.0\API.deps.json
+E:\ProjetReact\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\ProjetReact\API\bin\Debug\net8.0\API.dll
+E:\ProjetReact\API\bin\Debug\net8.0\API.pdb
+E:\ProjetReact\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Google.Protobuf.dll
+E:\ProjetReact\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\ProjetReact\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\ProjetReact\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ProjetReact\API\bin\Debug\net8.0\MySql.Data.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ProjetReact\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ProjetReact\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ProjetReact\API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ProjetReact\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProjetReact\API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ProjetReact\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ProjetReact\API\bin\Debug\net8.0\ZstdSharp.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProjetReact\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ProjetReact\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\ProjetReact\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetReact\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\ProjetReact\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\ProjetReact\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\ProjetReact\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\ProjetReact\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\ProjetReact\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ProjetReact\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\ProjetReact\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\ProjetReact\API\obj\Debug\net8.0\API.dll
+E:\ProjetReact\API\obj\Debug\net8.0\refint\API.dll
+E:\ProjetReact\API\obj\Debug\net8.0\API.pdb
+E:\ProjetReact\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\ProjetReact\API\obj\Debug\net8.0\ref\API.dll
+D:\API\bin\Debug\net8.0\appsettings.Development.json
+D:\API\bin\Debug\net8.0\appsettings.json
+D:\API\bin\Debug\net8.0\API.exe
+D:\API\bin\Debug\net8.0\API.deps.json
+D:\API\bin\Debug\net8.0\API.runtimeconfig.json
+D:\API\bin\Debug\net8.0\API.dll
+D:\API\bin\Debug\net8.0\API.pdb
+D:\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\API\bin\Debug\net8.0\MySql.Data.dll
+D:\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\API\bin\Debug\net8.0\ZstdSharp.dll
+D:\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+D:\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+D:\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+D:\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+D:\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\API\obj\Debug\net8.0\staticwebassets.build.json
+D:\API\obj\Debug\net8.0\staticwebassets.development.json
+D:\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+D:\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+D:\API\obj\Debug\net8.0\API.csproj.Up2Date
+D:\API\obj\Debug\net8.0\API.dll
+D:\API\obj\Debug\net8.0\refint\API.dll
+D:\API\obj\Debug\net8.0\API.pdb
+D:\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+D:\API\obj\Debug\net8.0\ref\API.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\appsettings.Development.json
+D:\Projet gestion stock\api\bin\Debug\net8.0\appsettings.json
+D:\Projet gestion stock\api\bin\Debug\net8.0\API.exe
+D:\Projet gestion stock\api\bin\Debug\net8.0\API.deps.json
+D:\Projet gestion stock\api\bin\Debug\net8.0\API.runtimeconfig.json
+D:\Projet gestion stock\api\bin\Debug\net8.0\API.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\API.pdb
+D:\Projet gestion stock\api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\MySql.Data.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet gestion stock\api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.AssemblyInfo.cs
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Projet gestion stock\api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projet gestion stock\api\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.csproj.Up2Date
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.dll
+D:\Projet gestion stock\api\obj\Debug\net8.0\refint\API.dll
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.pdb
+D:\Projet gestion stock\api\obj\Debug\net8.0\API.genruntimeconfig.cache
+D:\Projet gestion stock\api\obj\Debug\net8.0\ref\API.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.Development.json
+H:\Projet gestion stock\API\bin\Debug\net8.0\appsettings.json
+H:\Projet gestion stock\API\bin\Debug\net8.0\API.exe
+H:\Projet gestion stock\API\bin\Debug\net8.0\API.deps.json
+H:\Projet gestion stock\API\bin\Debug\net8.0\API.runtimeconfig.json
+H:\Projet gestion stock\API\bin\Debug\net8.0\API.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\API.pdb
+H:\Projet gestion stock\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Google.Protobuf.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\MySql.Data.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\ZstdSharp.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Projet gestion stock\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.build.json
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.development.json
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+H:\Projet gestion stock\API\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Projet gestion stock\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.csproj.Up2Date
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.dll
+H:\Projet gestion stock\API\obj\Debug\net8.0\refint\API.dll
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.pdb
+H:\Projet gestion stock\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+H:\Projet gestion stock\API\obj\Debug\net8.0\ref\API.dll
+E:\BackendGestionStock\bin\Debug\net8.0\appsettings.Development.json
+E:\BackendGestionStock\bin\Debug\net8.0\appsettings.json
+E:\BackendGestionStock\bin\Debug\net8.0\API.exe
+E:\BackendGestionStock\bin\Debug\net8.0\API.deps.json
+E:\BackendGestionStock\bin\Debug\net8.0\API.runtimeconfig.json
+E:\BackendGestionStock\bin\Debug\net8.0\API.dll
+E:\BackendGestionStock\bin\Debug\net8.0\API.pdb
+E:\BackendGestionStock\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Google.Protobuf.dll
+E:\BackendGestionStock\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\BackendGestionStock\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\BackendGestionStock\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BackendGestionStock\bin\Debug\net8.0\MySql.Data.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\BackendGestionStock\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\BackendGestionStock\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BackendGestionStock\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BackendGestionStock\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BackendGestionStock\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BackendGestionStock\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BackendGestionStock\bin\Debug\net8.0\ZstdSharp.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BackendGestionStock\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\BackendGestionStock\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\BackendGestionStock\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackendGestionStock\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\BackendGestionStock\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\BackendGestionStock\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\BackendGestionStock\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\BackendGestionStock\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets.build.json
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets.development.json
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\BackendGestionStock\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BackendGestionStock\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\BackendGestionStock\obj\Debug\net8.0\API.csproj.Up2Date
+E:\BackendGestionStock\obj\Debug\net8.0\API.dll
+E:\BackendGestionStock\obj\Debug\net8.0\refint\API.dll
+E:\BackendGestionStock\obj\Debug\net8.0\API.pdb
+E:\BackendGestionStock\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\BackendGestionStock\obj\Debug\net8.0\ref\API.dll
